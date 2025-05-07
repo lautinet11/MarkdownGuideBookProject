@@ -7,7 +7,7 @@
 # Pantalones de dormir
 
 
-![Pantalon de dormir](Pantalon2.png)
+![Pantalon de dormir](./Pantalon2.png)
 
 
 
@@ -26,18 +26,19 @@ Gama baja y media
 
 USD $
 
--20 
--30
--40
--50
+- 20 
+- 30
+- 40
+- 50
 
 Gama Alta y de lujo
 
 USD $
--100
--120
--150
--200
+
+- 100
+- 120
+- 150
+- 200
 
 
 ## Paginas de pantalones
