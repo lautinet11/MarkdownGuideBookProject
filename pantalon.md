@@ -1,4 +1,4 @@
-#Pantalones De vestir
+# Pantalones De vestir
 
 ![Foto de vestir](Pantalon1.png)	
 
@@ -6,7 +6,7 @@ Se suelen usar para salidas elegantes y cenas
 
 # Pantalones de dormir
 
-![Pantalon de dormir](./Pantalon2.png)
+![Pantalon de dormir](Pantalon2.png)
 
 Se suelen usar para descansar o dormir, algo mas intimo y privado
 
