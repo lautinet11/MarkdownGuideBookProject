@@ -39,7 +39,7 @@ Gama baja y media usd
 - 15
 - 17
 - 20
-- 25 usd
+- 25
 
 Gama alta y de lujo usd
 
