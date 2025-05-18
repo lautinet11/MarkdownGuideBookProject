@@ -19,7 +19,7 @@ Incluye imágenes, descripciones, precios aproximados y enlaces a sitios oficial
 ## 👥 Integrantes del grupo
 
 - Lautaro Cusinato
-- Santiago
+- Santiago Cardenas
 - Tomas García bado
 
   
